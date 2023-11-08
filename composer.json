@@ -1,0 +1,17 @@
+{   
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    
+    "require": { 
+        "components/jquery": "*",
+        "monolog/monolog": "2.3.2",       
+        "twbs/bootstrap": "5.3.0",
+        "uxweb/sweet-alert": "*",
+        "realrashid/sweet-alert": "^7.1",
+        "wavey/sweetalert": "^1.2",
+        "workerman/workerman": "^4.1"
+    }
+}
